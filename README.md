@@ -1,19 +1,17 @@
-# Debian-titus
+# Debian Customization
 Debian customizations from Chris Titus Tech
  
-## Requirements
-_This install changes Debian to the SID (Dev) Branch_
+_This install changes Debian to the SID Branch_
 
 ### Download Debian non-free netinstall
 
-Use the following Debian ISO as the base <https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/>
+Debian ISO link <https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/>
 
-*do NOT grab the EDU download and this includes non-free and firmware*
-### To install:
+## To install:
 
 ```
-git clone https://github.com/ChrisTitusTech/debian-titus
-cd debian-titus
+git clone https://github.com/gaba1/deb
+cd deb
 sudo ./install.sh
 ```
 
