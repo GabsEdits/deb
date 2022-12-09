@@ -1,5 +1,5 @@
 # Debian Customization
-Debian customizations from Chris Titus Tech with tweaks from gaba
+Debian customizations from Chris Titus Tech with some personal tweaks from me
  
 _This install changes Debian to the SID Branch_
 
