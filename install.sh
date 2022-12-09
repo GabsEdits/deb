@@ -40,7 +40,7 @@ nala install libqt5svg5 qml-module-qtquick-controls qml-module-qtquick-controls2
 # Installing Essential Programs 
 nala install feh bspwm sxhkd kitty rofi polybar picom thunar nitrogen lxpolkit x11-xserver-utils unzip yad wget pulseaudio pavucontrol -y
 # Installing Other less important Programs
-nala install neofetch flameshot psmisc mangohud vim lxappearance papirus-icon-theme lxappearance fonts-noto-color-emoji sddm -y
+nala install neofetch flameshot psmisc mangohud lxappearance papirus-icon-theme lxappearance firefox fonts-noto-color-emoji sddm -y
 
 # Download Nordic Theme
 cd /usr/share/themes/
