@@ -10,7 +10,7 @@ Debian ISO link <https://cdimage.debian.org/cdimage/unofficial/non-free/cd-inclu
 ## To install:
 
 ```
-git clone https://github.com/gaba1/deb
+git clone https://github.com/GabsEdits/deb
 cd deb
 sudo ./install.sh
 ```
